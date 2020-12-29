@@ -16,7 +16,7 @@
     "raster-tiles": {
       "type": "raster",
       "tiles": [
-        "a.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        "http://a.tile.openstreetmap.org/{z}/{x}/{y}.png"
       ],
       "tileSize": 256
     },
