@@ -63,9 +63,9 @@
           "zoom"
         ],
         $RASTER_FULL_ZOOM,
-        1,
+        0.99,
         $RASTER_INVISIBLE_ZOOM,
-        0
+        0.01
       ]
     }
   ]
